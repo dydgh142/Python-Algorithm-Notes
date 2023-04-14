@@ -1,3 +1,4 @@
+# 큐를 이용하기 위한 deque 가져오기
 from collections import deque
 
 #n 과 m 을 공백을 이용하여 받고
