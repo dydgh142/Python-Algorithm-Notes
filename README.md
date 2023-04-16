@@ -13,7 +13,7 @@
 > 책의 예제를 풀어보기
 
 <br><br>
-### [백준 문제풀이](https://github.com/dydgh142/Python-Algorithm-Notes/tree/master/Python-Study)
+### [백준 문제풀이](https://github.com/dydgh142/Python-Algorithm-Notes/tree/master/%EB%B0%B1%EC%A4%80/Python-Study)
 >백준에서 문제 풀어보기
 > 
 
